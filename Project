@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OperadoresLogicos
+//entrada de usuário, condicionais e operadores lógicos
+
+namespace Classe
 {
 
     class program
